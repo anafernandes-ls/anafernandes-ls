@@ -25,7 +25,7 @@
   
   
 <div><br>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/abee0880b115906e313072bf74aad159.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/abee0880b115906e313072bf74aad159.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
 
 
